@@ -4,4 +4,4 @@
 <b>commands that will be helpful:</b>\
 pip install bs4\
 pip install urllib.requests\
-python myscrapper.py > newtextfile.txt <!--to copy the data to a new file directly from console..-->
+python myscrapper.py > newtextfile.txt #to copy the data to a new file directly from console.
